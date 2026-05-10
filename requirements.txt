@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+requests>=2.31
+yfinance>=0.2.44
+stable-baselines3>=2.3.2
+gymnasium>=0.29.1
+torch>=2.2

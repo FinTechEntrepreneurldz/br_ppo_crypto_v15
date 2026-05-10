@@ -1,0 +1,8 @@
+  - id: br_ppo_crypto_v15
+    name: "br_ppo_crypto_v15"
+    description: "V15 / V8 Crypto Mandatory FreqAI Sharpe Max v84. Dedicated repo, dedicated Alpaca credentials, and fail-closed PPO ensemble inference. Every terminal action keeps hard crypto exposure from the metadata action menu."
+    repo: "FinTechEntrepreneurldz/br_ppo_crypto_v15"
+    logs_path: "logs"
+    branch: "main"
+    enabled: true
+    color: "#f97316"
