@@ -1,0 +1,63 @@
+{
+  "timestamp_utc": "2026-05-10T02:33:33.112177+00:00",
+  "model_id": "br_ppo_crypto_v15",
+  "overall_status": "ok",
+  "allocation_mode": "ppo",
+  "action": "crypto15_simplemeta65_bil20",
+  "action_source": "ppo_ensemble_model",
+  "allocation_state": "live_proxy_features_exact_shape_1945",
+  "fallback_used": false,
+  "fallback_reason": "",
+  "require_ppo": true,
+  "orders_allowed": true,
+  "rebalance_reason": "force_rebalance",
+  "submit_orders": true,
+  "cancel_open_orders": false,
+  "cancel_status": "not_requested",
+  "cancelled_orders": 0,
+  "account_status": "connected",
+  "target_weights": {
+    "BTC/USD": 0.12625000000000003,
+    "ETH/USD": 0.09162499999999998,
+    "SOL/USD": 0.029625,
+    "SPY": 0.195,
+    "QQQ": 0.13,
+    "BIL": 0.4275
+  },
+  "action_weights": {
+    "CRYPTO_CASH_GATED": 0.1,
+    "CRYPTO_BTC_ETH_CORE": 0.05,
+    "V82_SIMPLE_META_ALLOCATOR": 0.65,
+    "BIL": 0.2
+  },
+  "ppo_debug": {
+    "n_models_loaded": 3,
+    "n_model_errors": 0,
+    "model_errors": [],
+    "chosen_action_index": 12,
+    "chosen_action_probability": 0.24915706062903006,
+    "top_action_probabilities": [
+      {
+        "action": "crypto15_simplemeta65_bil20",
+        "probability": 0.24915706062903006
+      },
+      {
+        "action": "crypto05_alpha35_bil60",
+        "probability": 0.21811681317675213
+      },
+      {
+        "action": "crypto10_hrp60_bil30",
+        "probability": 0.21594343304580196
+      },
+      {
+        "action": "crypto10_freqai10_alpha50_bil30",
+        "probability": 0.10476246517708492
+      },
+      {
+        "action": "crypto05_meta15_alpha45_bil35",
+        "probability": 0.04871878087268425
+      }
+    ],
+    "live_feature_count": 1926
+  }
+}

@@ -1,0 +1,7 @@
+timestamp_utc,action,symbol,target_weight
+2026-05-10T02:33:33.111659+00:00,crypto15_simplemeta65_bil20,BIL,0.4275
+2026-05-10T02:33:33.111665+00:00,crypto15_simplemeta65_bil20,BTC/USD,0.12625
+2026-05-10T02:33:33.111668+00:00,crypto15_simplemeta65_bil20,ETH/USD,0.091625
+2026-05-10T02:33:33.111671+00:00,crypto15_simplemeta65_bil20,QQQ,0.13
+2026-05-10T02:33:33.111674+00:00,crypto15_simplemeta65_bil20,SOL/USD,0.029625
+2026-05-10T02:33:33.111676+00:00,crypto15_simplemeta65_bil20,SPY,0.195
