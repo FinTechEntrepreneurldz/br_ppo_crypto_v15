@@ -3,7 +3,7 @@ name: br_ppo_crypto_v15 paper trading
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 11 * * 1-5"
+    - cron: "0 09 * * 1-5"
 permissions:
   contents: write
 
