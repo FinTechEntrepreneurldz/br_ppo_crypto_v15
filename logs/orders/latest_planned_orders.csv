@@ -1,7 +1,0 @@
-timestamp_utc,symbol,side,notional,target_value,current_value,delta_value,order_type,time_in_force
-2026-05-10T02:33:30.693436+00:00,BIL,buy,427500.0,427500.0,0.0,427500.0,market,day
-2026-05-10T02:33:30.693464+00:00,BTC/USD,buy,126250.0,126250.0,0.0,126250.0,market,gtc
-2026-05-10T02:33:30.693470+00:00,ETH/USD,buy,91625.0,91625.0,0.0,91625.0,market,gtc
-2026-05-10T02:33:30.693475+00:00,QQQ,buy,130000.0,130000.0,0.0,130000.0,market,day
-2026-05-10T02:33:30.693480+00:00,SOL/USD,buy,29625.0,29625.0,0.0,29625.0,market,gtc
-2026-05-10T02:33:30.693485+00:00,SPY,buy,195000.0,195000.0,0.0,195000.0,market,day
