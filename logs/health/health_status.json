@@ -1,59 +1,60 @@
 {
-  "timestamp_utc": "2026-05-12T23:56:50.685337+00:00",
+  "timestamp_utc": "2026-05-13T11:27:21.931252+00:00",
   "model_id": "br_ppo_crypto_v15",
   "overall_status": "ok",
   "allocation_mode": "ppo",
-  "action": "crypto05_alpha35_bil60",
+  "action": "crypto10_hrp60_bil30",
   "action_source": "ppo_ensemble_model",
   "allocation_state": "live_proxy_features_exact_shape_1945",
   "fallback_used": false,
   "fallback_reason": "",
   "require_ppo": true,
   "orders_allowed": false,
-  "rebalance_reason": "rebalance_wait_elapsed_days_2_threshold_10",
+  "rebalance_reason": "rebalance_wait_elapsed_days_3_threshold_10",
   "submit_orders": true,
   "cancel_open_orders": false,
   "cancel_status": "not_requested",
   "cancelled_orders": 0,
   "account_status": "connected",
   "target_weights": {
-    "BTC/USD": 0.027500000000000004,
-    "ETH/USD": 0.022500000000000003,
-    "SPY": 0.1925,
-    "QQQ": 0.12249999999999998,
-    "BIL": 0.635
+    "BTC/USD": 0.1,
+    "ETH/USD": 0.07650000000000001,
+    "SPY": 0.18,
+    "QQQ": 0.12,
+    "BIL": 0.51,
+    "SOL/USD": 0.0135
   },
   "action_weights": {
-    "CRYPTO_BTC_ETH_CORE": 0.05,
-    "V8_ALPHA_ENSEMBLE": 0.35,
-    "BIL": 0.6
+    "CRYPTO_BTC_ETH_CORE": 0.1,
+    "V82_HRP_LITE_ALLOCATOR": 0.6,
+    "BIL": 0.3
   },
   "ppo_debug": {
     "n_models_loaded": 3,
     "n_model_errors": 0,
     "model_errors": [],
-    "chosen_action_index": 17,
-    "chosen_action_probability": 0.25955765481371107,
+    "chosen_action_index": 10,
+    "chosen_action_probability": 0.2706639444194037,
     "top_action_probabilities": [
       {
+        "action": "crypto10_hrp60_bil30",
+        "probability": 0.2706639444194037
+      },
+      {
         "action": "crypto05_alpha35_bil60",
-        "probability": 0.25955765481371107
+        "probability": 0.20017889210059372
       },
       {
         "action": "crypto10_freqai10_alpha50_bil30",
-        "probability": 0.18462302485380502
+        "probability": 0.17998104418758934
       },
       {
         "action": "crypto15_simplemeta65_bil20",
-        "probability": 0.16570350230046685
+        "probability": 0.17817221616867843
       },
       {
-        "action": "crypto10_hrp60_bil30",
-        "probability": 0.1413473274488121
-      },
-      {
-        "action": "crypto10_alpha30_bil60",
-        "probability": 0.05160539108816253
+        "action": "crypto05_meta15_alpha45_bil35",
+        "probability": 0.05864228089079446
       }
     ],
     "live_feature_count": 1926
