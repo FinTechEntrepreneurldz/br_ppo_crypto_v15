@@ -10,3 +10,4 @@ timestamp_utc,model_id,signal,allocation_mode,action_source,fallback_used,fallba
 2026-05-13T11:27:21.931447+00:00,br_ppo_crypto_v15,crypto10_hrp60_bil30,ppo,ppo_ensemble_model,false,
 2026-05-13T20:11:14.554277+00:00,br_ppo_crypto_v15,crypto05_alpha35_bil60,ppo,ppo_ensemble_model,false,
 2026-05-13T23:53:28.940348+00:00,br_ppo_crypto_v15,crypto05_alpha35_bil60,ppo,ppo_ensemble_model,false,
+2026-05-14T11:10:55.056837+00:00,br_ppo_crypto_v15,crypto05_alpha35_bil60,ppo,ppo_ensemble_model,false,
