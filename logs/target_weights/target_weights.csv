@@ -87,3 +87,10 @@ timestamp_utc,action,symbol,target_weight
 2026-05-15T23:52:51.707393+00:00,crypto15_simplemeta65_bil20,QQQ,0.13
 2026-05-15T23:52:51.707397+00:00,crypto15_simplemeta65_bil20,SOL/USD,0.029625
 2026-05-15T23:52:51.707401+00:00,crypto15_simplemeta65_bil20,SPY,0.195
+2026-05-18T12:10:59.042808+00:00,crypto10_freqai15_llm25_ichi25_bil25,BIL,0.3
+2026-05-18T12:10:59.042818+00:00,crypto10_freqai15_llm25_ichi25_bil25,BTC/USD,0.1075
+2026-05-18T12:10:59.042824+00:00,crypto10_freqai15_llm25_ichi25_bil25,ETH/USD,0.09
+2026-05-18T12:10:59.042829+00:00,crypto10_freqai15_llm25_ichi25_bil25,LINK/USD,0.0225
+2026-05-18T12:10:59.042833+00:00,crypto10_freqai15_llm25_ichi25_bil25,QQQ,0.175
+2026-05-18T12:10:59.042837+00:00,crypto10_freqai15_llm25_ichi25_bil25,SOL/USD,0.03
+2026-05-18T12:10:59.042841+00:00,crypto10_freqai15_llm25_ichi25_bil25,SPY,0.275
