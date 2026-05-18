@@ -16,3 +16,4 @@ timestamp_utc,model_id,signal,allocation_mode,action_source,fallback_used,fallba
 2026-05-15T11:14:47.347331+00:00,br_ppo_crypto_v15,crypto15_simplemeta65_bil20,ppo,ppo_ensemble_model,false,
 2026-05-15T23:52:51.707865+00:00,br_ppo_crypto_v15,crypto15_simplemeta65_bil20,ppo,ppo_ensemble_model,false,
 2026-05-18T12:10:59.043628+00:00,br_ppo_crypto_v15,crypto10_freqai15_llm25_ichi25_bil25,ppo,ppo_ensemble_model,false,
+2026-05-18T12:23:03.747450+00:00,br_ppo_crypto_v15,crypto10_freqai15_llm25_ichi25_bil25,ppo,ppo_ensemble_model,false,
