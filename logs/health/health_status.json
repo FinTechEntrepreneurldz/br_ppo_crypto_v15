@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-05-18T19:53:42.619789+00:00",
+  "timestamp_utc": "2026-05-19T00:02:09.312910+00:00",
   "model_id": "br_ppo_crypto_v15",
   "overall_status": "ok",
   "allocation_mode": "ppo",
@@ -37,27 +37,27 @@
     "n_model_errors": 0,
     "model_errors": [],
     "chosen_action_index": 11,
-    "chosen_action_probability": 0.30922025777291773,
+    "chosen_action_probability": 0.3075800064642116,
     "top_action_probabilities": [
       {
         "action": "crypto10_freqai15_llm25_ichi25_bil25",
-        "probability": 0.30922025777291773
+        "probability": 0.3075800064642116
       },
       {
         "action": "crypto15_simplemeta65_bil20",
-        "probability": 0.2802625497497417
+        "probability": 0.2879346695044006
       },
       {
         "action": "crypto10_freqai10_alpha50_bil30",
-        "probability": 0.16341806371145876
+        "probability": 0.12816762765182305
       },
       {
         "action": "crypto10_alpha30_bil60",
-        "probability": 0.11499376615915384
+        "probability": 0.12013166335212672
       },
       {
         "action": "optuna_crypto_blend_00",
-        "probability": 0.02416565789801804
+        "probability": 0.041069757495341704
       }
     ],
     "live_feature_count": 1926
